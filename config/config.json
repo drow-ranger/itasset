@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "itassetadmin",
+    "password": "deonico",
+    "database": "itasset",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "itassetadmin",
+    "password": "deonico",
+    "database": "itasset",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "itassetadmin",
+    "password": "deonico",
+    "database": "itasset",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
